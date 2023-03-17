@@ -1,0 +1,3 @@
+git init
+git clon http://...
+git commit -m 'aaa'
